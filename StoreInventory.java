@@ -54,4 +54,47 @@ public class StoreInventory{
 		}
 		return count;
 	}
+
+	//prints out the current inventory of all rolls
+	public void generateReport(){
+		System.out.println("Egg Rolls: "+getTypeCount("egg"));
+		System.out.println("Jelly Rolls: "+getTypeCount("jelly"));
+		System.out.println("Pastry Rolls: "+getTypeCount("pastry"));
+		System.out.println("Sausage Rolls: "+getTypeCount("sausage"));
+		System.out.println("Spring Rolls: "+getTypeCount("spring"));
+	}
+
+	//given a desired amount, function returns a list of
+	//roll types that have stock >= desired amount
+	public List<String> getAvailableTypes(int amount){
+		List<String> availableTypes = new ArrayList<String>();
+		
+		if(getTypeCount("egg") >= amount){
+			availableTypes.add("egg");
+		}
+		if(getTypeCount("jelly") >= amount){
+			availableTypes.add("jelly");
+		}
+		if(getTypeCount("pastry") >= amount){
+			availableTypes.add("pastry");
+		}
+		if(getTypeCount("sausage") >= amount){
+			availableTypes.add("sausage");
+		}
+		if(getTypeCount("spring") >= amount){
+			availableTypes.add("spring");
+		}
+
+		return availableTypes;
+	}
+
+	//checks whether or not all rolls are sold out
+	public Boolean soldOut(){
+		Boolean value = false;
+		List<String> available = getAvailableTypes(1); //checks if any roll type has at least 1 roll
+		if(available.size() == 0){ //if all rolls are sold out
+			value = true;
+		}
+		return value;
+	}
 }

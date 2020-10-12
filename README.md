@@ -67,7 +67,7 @@ The store has an unlimited supply of these addons.
   </ul>
 </ul>
 
-### Rules
+## Rules
 <ul>
   <li>When a certain roll sells out, no more may be sold that day.</li>
   <ul>
@@ -89,6 +89,7 @@ The store has an unlimited supply of these addons.
     </ul>
 </ul>
   
+## Required Outputs
 For each day the simulation runs, the program should print the following information in a concise format:
 <ul>
   <li>Day number</li>

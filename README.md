@@ -17,13 +17,13 @@ Store starts with 30 types of each roll
 
 ### Roll types:
 <ul>
-  <li>Spring Rolls</li>
-  <li>Egg Rolls</li>
-  <li>Pastry Rolls</li>
-  <li>Sausage Rolls</li>
-  <li>Jelly Rolls</li>
+  <li><strike>Spring Rolls</strike></li>
+  <li><strike>Egg Rolls</strike></li>
+  <li><strike>Pastry Rolls</strike></li>
+  <li><strike>Sausage Rolls</strike></li>
+  <li><strike>Jelly Rolls</strike></li>
 </ul>
-Each roll must be given a unique cost/price.
+<strike>Each roll must be given a unique cost/price.</strike>
 
 ### Addons to rolls:
 <ul>

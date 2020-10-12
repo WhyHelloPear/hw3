@@ -1,5 +1,18 @@
 # hw3
 
+
+## Goals in Code:
+<ul>
+  <li>Use at least three distinct OO patterns that we have discussed in your design. Typical uses might include factory (for instantiating rolls or customers), decorator (for adding extras), observer (for capturing events that will go to output). You may see other opportunities for other OO pattern use. Document and comment clearly where any patterns are applied.</li>
+  <li>include at least 10 JUnit test methods (methods with the @Test decorator) in a single test class called MyUnitTest. These unit tests should be applied appropriately to classes and methods in your simulation code to ensure their proper behavior. You should be able to instantiate a MyUnitTest object before your simulation run and then execute each of the ten test methods at some point before, during, or after the simulation, with output from each test indicating the identification of the test and success or failure of each test method. A single test method may contain single or multiple assert statements as you feel are needed or are appropriate. Clear output from the test run must be included in your program results.</li>
+</ul>
+  
+
+
+
+
+## Simulation Rules:
+
 Store starts with 30 types of each roll
 
 ### Roll types:
@@ -74,3 +87,23 @@ The store has an unlimited supply of these addons.
       <li>0-2 extra toppings</li>
     </ul>
   </ul>
+  
+  For each day the simulation runs, the program should print the following information in a concise format:
+  <ul>
+    <li>Day number</li>
+    <li>Rolls in inventory at start & end of day; by type</li>
+    <li>Roll sales – individual customer orders: including customer type, number of rolls by type, any added extras per roll, and the total cost of the order</li>
+  <li>Total payment for orders for the day by customer type, and overall</li>
+  <li>Count of orders impacted by a roll outage, by customer type (do not count customers that did not go to the store after it closed)</li>
+  <li>Count inventory orders by roll type</li>
+  <li>Indicate if the store closed for no inventory that day</li>
+  </ul>
+  
+  At the end of the 30 days, print (concisely):
+  <ul>
+    <li>Total number of rolls sold, by type and overall</li>
+    <liTotal money in sales</li>
+    <li>Total number of roll outage impacts</li>
+  </ul>
+  
+Re-run the program two more times increasing the inventory level at the start and at replacement from 30 rolls to 45 and then from 45 to 60.

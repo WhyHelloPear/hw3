@@ -1,8 +1,8 @@
 //Used to implement an object under the factory pattern
 
 public class SpringRoll implements Roll{
-	String type = "spring roll";
-	Float price = 2.25F;
+	String type = "spring";
+	Float price = 1.75F;
 
 	@Override
 	public String getType(){

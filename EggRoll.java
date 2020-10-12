@@ -1,6 +1,6 @@
 //Used to implement an object under the factory pattern
 public class EggRoll implements Roll{
-	String type = "egg roll";
+	String type = "egg";
 	Float price = 2.25F;
 
 	@Override

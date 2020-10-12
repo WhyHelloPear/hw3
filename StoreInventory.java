@@ -1,3 +1,4 @@
+import java.util.Random;
 import java.util.*;
 
 //Singleton pattern used to track the store's inventory
@@ -6,10 +7,17 @@ public class StoreInventory{
 	private static StoreInventory storeInventory = null;
 	private RollFactory rollFactory;
 	private List<Roll> inventory;
+	public List<String> rollTypes;
 
 	private StoreInventory(){
 		rollFactory = new RollFactory();
 		inventory = new ArrayList<Roll>();
+		rollTypes = new ArrayList<String>();
+		rollTypes.add("egg");
+		rollTypes.add("jelly");
+		rollTypes.add("pastry");
+		rollTypes.add("sausage");
+		rollTypes.add("spring");
 	}
 
 	public static StoreInventory getStoreInventory(){
@@ -96,5 +104,30 @@ public class StoreInventory{
 			value = true;
 		}
 		return value;
+	}
+
+	public Roll getRoll(int index){
+		return inventory.get(index);
+	}
+
+	//removes roll from inventory when roll is sold in an order
+	public void removeRoll(Roll roll){
+		this.inventory.remove(roll);
+	}
+
+	public List<String> getRandomTypes(int numTypes){
+
+		List<String> selections = new ArrayList<String>();
+		Random random = new Random();
+
+		while(selections.size() < numTypes){
+			int index = random.nextInt(5);
+			String selection = rollTypes.get(index);
+			if(selections.contains(selection) == false){
+				selections.add(selection);
+			}
+		}
+
+		return selections;
 	}
 }

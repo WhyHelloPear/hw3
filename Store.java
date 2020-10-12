@@ -46,19 +46,21 @@ public class Store{
 
 		StoreInventory storeInventory = StoreInventory.getStoreInventory(); //getting singleton inventory item
 		storeInventory.generateRolls("all"); //fill inventory with 30 rolls of each type
-		List<Customer> customers = generateCustomers(); //get list of customers for the day
-		
-		int numCustomers = customers.size();
-		for(int i = 0; i < numCustomers; i++){
-			customers.get(i).buy();
-		}
 
 		for(int i = 0; i < days; i++){
 			System.out.println("Day "+i+":");
 			storeInventory.generateReport(); //print inventory report
-			if(storeInventory.soldOut()){
-				System.out.println("All rolls have been sold. Store is closing");
-				break;
+			
+			List<Customer> customers = generateCustomers(); //get list of customers for the day
+			int numCustomers = customers.size();
+			
+			for(int j = 0; j < numCustomers; j++){
+				Customer customer = customers.get(j);
+				customer.buy(storeInventory);
+				if(storeInventory.soldOut()){ //if store is sold out
+					System.out.println("All rolls have been sold. Store is closing");
+					break;
+				}
 			}
 		}
 	}

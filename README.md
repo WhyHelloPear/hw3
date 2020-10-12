@@ -78,6 +78,7 @@ The store has an unlimited supply of these addons.
   <li>Store closes and notice is given when everything sells out.</li>
   <ul>
     <li>Customers will not visit this store at this point</li>
+  </ul>
   <li>If roll still has inventory, use the same inventory for the next day; only reset inventory if we have none.</li>
   <li>Customers arrive randomly every day in random order.</li>
   <li>Every individual roll will have (all costs are added to roll order cost):</li>
@@ -86,24 +87,24 @@ The store has an unlimited supply of these addons.
       <li>0-1 extra fillings</li>
       <li>0-2 extra toppings</li>
     </ul>
-  </ul>
+</ul>
   
-  For each day the simulation runs, the program should print the following information in a concise format:
-  <ul>
-    <li>Day number</li>
-    <li>Rolls in inventory at start & end of day; by type</li>
-    <li>Roll sales – individual customer orders: including customer type, number of rolls by type, any added extras per roll, and the total cost of the order</li>
+For each day the simulation runs, the program should print the following information in a concise format:
+<ul>
+  <li>Day number</li>
+  <li>Rolls in inventory at start & end of day; by type</li>
+  <li>Roll sales – individual customer orders: including customer type, number of rolls by type, any added extras per roll, and the total cost of the order</li>
   <li>Total payment for orders for the day by customer type, and overall</li>
   <li>Count of orders impacted by a roll outage, by customer type (do not count customers that did not go to the store after it closed)</li>
   <li>Count inventory orders by roll type</li>
   <li>Indicate if the store closed for no inventory that day</li>
-  </ul>
-  
-  At the end of the 30 days, print (concisely):
-  <ul>
-    <li>Total number of rolls sold, by type and overall</li>
-    <liTotal money in sales</li>
-    <li>Total number of roll outage impacts</li>
-  </ul>
-  
+</ul>
+
+At the end of the 30 days, print (concisely):
+<ul>
+  <li>Total number of rolls sold, by type and overall</li>
+  <liTotal money in sales</li>
+  <li>Total number of roll outage impacts</li>
+</ul>
+
 Re-run the program two more times increasing the inventory level at the start and at replacement from 30 rolls to 45 and then from 45 to 60.

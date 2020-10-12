@@ -1,5 +1,5 @@
-import java.util.Random;
 import java.util.*;
+import java.util.Random;
 
 //Singleton pattern used to track the store's inventory
 public class StoreInventory{
@@ -113,21 +113,5 @@ public class StoreInventory{
 	//removes roll from inventory when roll is sold in an order
 	public void removeRoll(Roll roll){
 		this.inventory.remove(roll);
-	}
-
-	public List<String> getRandomTypes(int numTypes){
-
-		List<String> selections = new ArrayList<String>();
-		Random random = new Random();
-
-		while(selections.size() < numTypes){
-			int index = random.nextInt(5);
-			String selection = rollTypes.get(index);
-			if(selections.contains(selection) == false){
-				selections.add(selection);
-			}
-		}
-
-		return selections;
 	}
 }

@@ -15,6 +15,11 @@ public abstract class Customer{
 	}
 
 	public void buy(StoreInventory inventory){
-		this.buyBehavior.buy(inventory);
+		this.order = this.buyBehavior.buy(inventory);
+		System.out.println("=============================");
+		for(int i = 0; i < order.size(); i++){
+			System.out.println(order.get(i).getType());
+		}
+		System.out.println("=============================");
 	}
 }

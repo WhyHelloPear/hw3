@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Random;
 
 //Singleton pattern used to track the store's inventory
 public class StoreInventory{
@@ -6,10 +7,29 @@ public class StoreInventory{
 	private static StoreInventory storeInventory = null;
 	private RollFactory rollFactory;
 	private List<Roll> inventory;
+	public List<String> rollTypes;
+	private int totalSold; //count of total number of rolls sold
+	private int totalRevenue; //count of total revenue earned
+	private List<String> customerTypes;
+	private List<Integer> customerTurnaways;
 
 	private StoreInventory(){
 		rollFactory = new RollFactory();
 		inventory = new ArrayList<Roll>();
+		rollTypes = new ArrayList<String>();
+		rollTypes.add("egg");
+		rollTypes.add("jelly");
+		rollTypes.add("pastry");
+		rollTypes.add("sausage");
+		rollTypes.add("spring");
+		customerTypes = new ArrayList<String>();
+		customerTypes.add("casual");
+		customerTypes.add("business");
+		customerTypes.add("catering");
+		customerTurnaways = new ArrayList<Integer>();
+		customerTurnaways.add(0);
+		customerTurnaways.add(0);
+		customerTurnaways.add(0);
 	}
 
 	public static StoreInventory getStoreInventory(){
@@ -33,6 +53,7 @@ public class StoreInventory{
 				inventory.add(rollFactory.createRoll(type));
 			}
 		}
+		shuffleInventory();
 	}
 
 	//returns the number of rolls currently in inventory
@@ -96,5 +117,44 @@ public class StoreInventory{
 			value = true;
 		}
 		return value;
+	}
+
+	public Roll getRoll(int index){
+		return inventory.get(index);
+	}
+
+	//removes roll from inventory when roll is sold in an order
+	public void removeRoll(Roll roll){
+		this.inventory.remove(roll);
+	}
+
+	public void shuffleInventory(){
+		Collections.shuffle(this.inventory);
+	}
+
+	public void restock(){
+		List<String> types = this.rollTypes;
+		for(int i = 0; i < types.size(); i++){
+			String type = types.get(i);
+			if(getTypeCount(type) == 0){
+				generateRolls(type);
+			}
+		}
+	}
+
+	public void addTurnaway(String type){
+		int index = customerTypes.indexOf(type);
+		int count = customerTurnaways.get(index);
+		count++;
+		customerTurnaways.set(index, count);
+	}
+
+	public void turnawayReport(){
+		int sum = 0;
+		for(int i = 0; i < 3; i++){
+			System.out.println(customerTypes.get(i)+" turnaways: "+customerTurnaways.get(i));
+			sum += customerTurnaways.get(i);
+		}
+		System.out.println("Total turnaways: "+sum);
 	}
 }

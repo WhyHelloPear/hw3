@@ -14,6 +14,25 @@ public abstract class Customer{
 		this.buyBehavior = behavior;
 	}
 
+	private Roll addExtras (Roll roll){
+		Random random = new Random();
+		int num_sauces = random.nextInt(4);
+		int num_fillings = random.nextInt(2);
+		int num_toppings = random.nextInt(3);
+
+		if(num_sauces > 0){
+			roll = new ExtraSauce(roll, num_sauces);
+		}
+		if(num_fillings > 0){
+			roll = new ExtraFilling(roll, num_fillings);
+		}
+		if(num_toppings > 0){
+			roll = new ExtraTopping(roll, num_toppings);
+		}
+
+		return roll;
+	}
+
 	public void buy(StoreInventory storeInventory){
 		System.out.println("========= "+this.type+" =========");
 
@@ -27,7 +46,8 @@ public abstract class Customer{
 		for(int i = 0; i < this.order.size(); i++){
 			Roll roll = this.order.get(i);
 			storeInventory.removeRoll(roll);
-			System.out.println(roll.getType());
+			roll = addExtras(roll);
+			roll.printType();
 		}
 	}
 }

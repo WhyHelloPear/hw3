@@ -1,16 +1,9 @@
 //Used to implement an object under the factory pattern
 
-public class PastryRoll implements Roll{
-	String type = "pastry";
-	Float price = 3.50F;
+public class PastryRoll extends Roll{
 
-	@Override
-	public String getType(){
-		return this.type;
-	}
-
-	@Override
-	public Float getPrice(){
-		return this.price;
+	PastryRoll() {
+		this.type = "pastry";
+		this.price = 3.50F;
 	}
 }

@@ -29,4 +29,5 @@ public class CasualBuy implements BuyBehavior{
 		return order; //return customer order
 
 	}
+
 }

@@ -109,3 +109,15 @@ At the end of the 30 days, print (concisely):
 </ul>
 
 Re-run the program two more times increasing the inventory level at the start and at replacement from 30 rolls to 45 and then from 45 to 60.
+
+# UNFINISHED WORK
+<ul>
+  <li>Create decorator method for roll toppings</li>
+  <li>Generate report for daily and total (after simulation ends) sales and a way to track this info</li>
+  <ul>
+    <li>NOTE: The buy() function in the Customer class would be the easiest way to do this. However, each customer has their order attatched it its object as a list of rolls, there should be plently of flexibility to accomplish this</li>
+  </ul>
+  <li>UML diagram needs to be generated based on code design</li>
+  <li>10 test cases need to be ran and recorded</li>
+</ul>
+  

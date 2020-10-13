@@ -69,18 +69,18 @@ The store has an unlimited supply of these addons.
 
 ## Rules
 <ul>
-  <li>When a certain roll sells out, no more may be sold that day.</li>
+  <li><strike>When a certain roll sells out, no more may be sold that day.</strike></li>
   <ul>
     <li>Notice must be given (message).</li>
-    <li>30 more rolls will be made the next day.</li>
-    <li>Customer type must be recorded; a total of this count must be kept for each customer for the dialy report).</li>
+    <li><strike>30 more rolls will be made the next day.</li>
+    <li>Customer type must be recorded; a total of this count must be kept for each customer for the dialy report).</strike></li>
   </ul>
-  <li>Store closes and notice is given when everything sells out.</li>
+    <li><strike>Store closes and notice is given when everything sells out.</strike></li>
   <ul>
-    <li>Customers will not visit this store at this point</li>
+    <li><strike>Customers will not visit this store at this point</strike></li>
   </ul>
-  <li>If roll still has inventory, use the same inventory for the next day; only reset inventory if we have none.</li>
-  <li>Customers arrive randomly every day in random order.</li>
+  <li><strike>If roll still has inventory, use the same inventory for the next day; only reset inventory if we have none.</strike></li>
+    <li><strike>Customers arrive randomly every day in random order.</strike></li>
   <li>Every individual roll will have (all costs are added to roll order cost):</li>
     <ul>
       <li>0-3 extra sauces</li>
@@ -92,13 +92,13 @@ The store has an unlimited supply of these addons.
 ## Required Outputs
 For each day the simulation runs, the program should print the following information in a concise format:
 <ul>
-  <li>Day number</li>
-  <li>Rolls in inventory at start & end of day; by type</li>
+  <li><strike>Day number</strike></li>
+  <li><strike>Rolls in inventory at start & end of day; by type</strike></li>
   <li>Roll sales – individual customer orders: including customer type, number of rolls by type, any added extras per roll, and the total cost of the order</li>
   <li>Total payment for orders for the day by customer type, and overall</li>
   <li>Count of orders impacted by a roll outage, by customer type (do not count customers that did not go to the store after it closed)</li>
   <li>Count inventory orders by roll type</li>
-  <li>Indicate if the store closed for no inventory that day</li>
+    <li><strike>Indicate if the store closed for no inventory that day</strike></li>
 </ul>
 
 At the end of the 30 days, print (concisely):

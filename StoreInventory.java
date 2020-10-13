@@ -41,6 +41,7 @@ public class StoreInventory{
 				inventory.add(rollFactory.createRoll(type));
 			}
 		}
+		shuffleInventory();
 	}
 
 	//returns the number of rolls currently in inventory
@@ -113,5 +114,9 @@ public class StoreInventory{
 	//removes roll from inventory when roll is sold in an order
 	public void removeRoll(Roll roll){
 		this.inventory.remove(roll);
+	}
+
+	public void shuffleInventory(){
+		Collections.shuffle(this.inventory);
 	}
 }

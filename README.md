@@ -36,33 +36,33 @@ The store has an unlimited supply of these addons.
 
 ### Customer types:
 <ul>
-  <li>Casual</li>
+  <li><strike>Casual</strike></li>
   <ul>
-    <li>Count of 1-12 each day.</li>
-    <li>Buys 1-3 random rolls</li>
+    <li><strike>Count of 1-12 each day.</strike></li>
+    <li><strike>Buys 1-3 random rolls</strike></li>
     <li>If selected rolls are out of stock:</li>
       <ul>
-        <li>Will select any available roll.</li>
-        <li>Will accept less than their ideal total (will take 2 if 3 aren't available).</li>
+        <li><strike>Will select any available roll.</strike></li>
+        <li><strike>Will accept less than their ideal total (will take 2 if 3 aren't available).</strike></li>
       </ul>
   </ul>
-  <li>Business</li>
+  <li><strike>Business</strike></li>
   <ul>
-    <li>Count of 1-3 each dya.</li>
-    <li>Buys 10 rolls; two of each type</li>
+    <li><strike>Count of 1-3 each dya.</strike></li>
+    <li><strike>Buys 10 rolls; two of each type</strike></li>
     <li>If selected rolls are out of stock:</li>
       <ul>
-        <li>Will NOT buy order; only takes their exact original order.</li>
+        <li><strike>Will NOT buy order; only takes their exact original order.</strike></li>
       </ul>
   </ul>
-  <li>Catering</li>
+      <li><strike>Catering</strike></li>
   <ul>
-    <li>Count of 1-3 each day.</li>
-    <li>Buys 15 rolls; 5 rolls of 3 random types</li>
+    <li><strike>Count of 1-3 each day.</strike></li>
+    <li><strike>Buys 15 rolls; 5 rolls of 3 random types</strike></li>
     <li>If selected rolls are out of stock:</li>
       <ul>
-        <li>Will select any available roll.</li>
-        <li>Will accept less than their ideal total (will take 10 if 15 aren't available).</li>
+        <li><strike>Will select any available roll.</strike></li>
+        <li><strike>Will accept less than their ideal total (will take 10 if 15 aren't available).</strike></li>
       </ul>
   </ul>
 </ul>

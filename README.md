@@ -96,8 +96,8 @@ For each day the simulation runs, the program should print the following informa
   <li><strike>Rolls in inventory at start & end of day; by type</strike></li>
   <li>Roll sales – individual customer orders: including customer type, number of rolls by type, any added extras per roll, and the total cost of the order</li>
   <li>Total payment for orders for the day by customer type, and overall</li>
-  <li>Count of orders impacted by a roll outage, by customer type (do not count customers that did not go to the store after it closed)</li>
-  <li>Count inventory orders by roll type</li>
+  <li><strike>Count of orders impacted by a roll outage, by customer type (do not count customers that did not go to the store after it closed)</strike></li>
+  <li><strike>Count inventory orders by roll type</strike></li>
     <li><strike>Indicate if the store closed for no inventory that day</strike></li>
 </ul>
 
@@ -105,7 +105,7 @@ At the end of the 30 days, print (concisely):
 <ul>
   <li>Total number of rolls sold, by type and overall</li>
   <liTotal money in sales</li>
-  <li>Total number of roll outage impacts</li>
+  <li><strike>Total number of roll outage impacts</strike></li>
 </ul>
 
 Re-run the program two more times increasing the inventory level at the start and at replacement from 30 rolls to 45 and then from 45 to 60.

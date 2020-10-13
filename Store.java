@@ -62,6 +62,8 @@ public class Store{
 					break;
 				}
 			}
+			storeInventory.restock();
 		}
+		storeInventory.turnawayReport();
 	}
 }

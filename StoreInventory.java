@@ -180,6 +180,10 @@ public class StoreInventory{
 	//removes roll from inventory when roll is sold in an order
 	public void removeRoll(Roll roll){
 		this.inventory.remove(roll);
+		String type = roll.getType();
+		if( !this.getAvailableTypes(1).contains(type) ) {
+			System.out.println("!!!!!!!!!!!!!! NOTICE: We have run out of " + type + " rolls.");
+		}
 	}
 
 	public void shuffleInventory(){

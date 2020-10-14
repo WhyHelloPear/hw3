@@ -1,0 +1,6132 @@
+######### Begin Day 00: #########
+Rolls In Inventory:
+	egg	30
+	jelly	30
+	pastry	30
+	sausage	30
+	spring	30
+========= casual =========
+pastry
+	 + 1 extra sauce
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+ORDER COST: 9.70
+========= casual =========
+sausage
+	 + 2 extra sauce
+ORDER COST: 4.65
+========= business =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra topping
+jelly
+egg
+	 + 1 extra sauce
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 34.70
+========= casual =========
+egg
+	 + 1 extra sauce
+ORDER COST: 2.45
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 7.45
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 5.10
+========= business =========
+spring
+	 + 3 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra topping
+ORDER COST: 35.45
+========= casual =========
+pastry
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+ORDER COST: 6.25
+========= catering =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 43.95
+========= casual =========
+egg
+	 + 2 extra topping
+ORDER COST: 2.45
+========= catering =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 48.95
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra topping
+ORDER COST: 6.65
+========= catering =========
+spring
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+jelly
+	 + 2 extra sauce
+spring
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 49.40
+########## End Day 0: ##########
+Rolls In Inventory:
+	egg	25
+	jelly	23
+	pastry	26
+	sausage	28
+	spring	24
+Rolls Sold Today:
+	egg	12
+	jelly	21
+	pastry	17
+	sausage	7
+	spring	21
+Revenue Today:
+	casual	44.70
+	business	70.15
+	catering	142.30
+	TOTAL	257.15
+#################################
+######### Begin Day 01: #########
+Rolls In Inventory:
+	egg	25
+	jelly	23
+	pastry	26
+	sausage	28
+	spring	24
+========= casual =========
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 3.35
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra topping
+ORDER COST: 13.40
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 6.70
+========= catering =========
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 63.30
+========= catering =========
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 48.00
+========= business =========
+egg
+jelly
+	 + 3 extra sauce
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 33.35
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.75
+========= casual =========
+spring
+	 + 1 extra filling
+ORDER COST: 2.00
+========= casual =========
+spring
+	 + 2 extra topping
+ORDER COST: 1.95
+########## End Day 1: ##########
+Rolls In Inventory:
+	egg	21
+	jelly	21
+	pastry	25
+	sausage	26
+	spring	19
+Rolls Sold Today:
+	egg	7
+	jelly	9
+	pastry	9
+	sausage	15
+	spring	11
+Revenue Today:
+	casual	38.15
+	business	33.35
+	catering	111.30
+	TOTAL	182.80
+#################################
+######### Begin Day 02: #########
+Rolls In Inventory:
+	egg	21
+	jelly	21
+	pastry	25
+	sausage	26
+	spring	19
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 8.15
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 11.55
+========= casual =========
+jelly
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 6.15
+========= casual =========
+spring
+	 + 3 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 5.30
+========= casual =========
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 11.20
+========= business =========
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+ORDER COST: 34.80
+========= catering =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 56.10
+========= casual =========
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 3.35
+========= business =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 35.10
+========= casual =========
+jelly
+	 + 2 extra topping
+ORDER COST: 3.20
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.80
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 3.65
+========= catering =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+spring
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+ORDER COST: 48.65
+========= casual =========
+pastry
+	 + 2 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 6.70
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 6.40
+########## End Day 2: ##########
+Rolls In Inventory:
+	egg	20
+	jelly	16
+	pastry	22
+	sausage	25
+	spring	13
+Rolls Sold Today:
+	egg	15
+	jelly	20
+	pastry	15
+	sausage	10
+	spring	11
+Revenue Today:
+	casual	70.45
+	business	69.90
+	catering	104.75
+	TOTAL	245.10
+#################################
+######### Begin Day 03: #########
+Rolls In Inventory:
+	egg	20
+	jelly	16
+	pastry	22
+	sausage	25
+	spring	13
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 11.35
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+egg
+ORDER COST: 6.45
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.40
+========= casual =========
+egg
+	 + 1 extra sauce
+spring
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 8.20
+========= catering =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+spring
+	 + 1 extra topping
+jelly
+	 + 1 extra topping
+ORDER COST: 48.95
+========= business =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra topping
+egg
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 35.30
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.85
+========= business =========
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 35.65
+########## End Day 3: ##########
+Rolls In Inventory:
+	egg	17
+	jelly	14
+	pastry	22
+	sausage	23
+	spring	8
+Rolls Sold Today:
+	egg	8
+	jelly	10
+	pastry	10
+	sausage	7
+	spring	13
+Revenue Today:
+	casual	41.25
+	business	70.95
+	catering	48.95
+	TOTAL	161.15
+#################################
+######### Begin Day 04: #########
+Rolls In Inventory:
+	egg	17
+	jelly	14
+	pastry	22
+	sausage	23
+	spring	8
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 9.45
+========= business =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra topping
+ORDER COST: 35.50
+========= business =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+ORDER COST: 34.10
+========= business =========
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 34.45
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 5.30
+========= casual =========
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+ORDER COST: 9.55
+========= casual =========
+pastry
+	 + 3 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.60
+========= casual =========
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.45
+========= catering =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+ORDER COST: 45.10
+========= casual =========
+spring
+	 + 1 extra sauce
+ORDER COST: 1.95
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 5.20
+========= catering =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 62.80
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 9.55
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+ORDER COST: 56.00
+########## End Day 4: ##########
+Rolls In Inventory:
+	egg	13
+	jelly	11
+	pastry	18
+	sausage	21
+	spring	2
+Rolls Sold Today:
+	egg	15
+	jelly	18
+	pastry	21
+	sausage	20
+	spring	15
+Revenue Today:
+	casual	53.05
+	business	104.05
+	catering	163.90
+	TOTAL	321.00
+#################################
+######### Begin Day 05: #########
+Rolls In Inventory:
+	egg	13
+	jelly	11
+	pastry	18
+	sausage	21
+	spring	2
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+ORDER COST: 5.75
+========= casual =========
+pastry
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 7.80
+========= catering =========
+sausage
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+sausage
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+sausage
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 62.05
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 12.20
+========= catering =========
+pastry
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+egg
+	 + 2 extra sauce
+pastry
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 58.30
+========= business =========
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 35.55
+========= business =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+ORDER COST: 35.00
+========= catering =========
+catering customer's original order was not filled
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of spring rolls.
+spring
+egg
+	 + 2 extra sauce
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 51.90
+########## End Day 5: ##########
+Rolls In Inventory:
+	egg	7
+	jelly	9
+	pastry	10
+	sausage	16
+	spring	0
+Rolls Sold Today:
+	egg	15
+	jelly	17
+	pastry	18
+	sausage	17
+	spring	5
+Revenue Today:
+	casual	25.75
+	business	70.55
+	catering	172.25
+	TOTAL	268.55
+#################################
+######### Begin Day 06: #########
+Rolls In Inventory:
+	egg	7
+	jelly	9
+	pastry	10
+	sausage	16
+	spring	30
+========= casual =========
+pastry
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.35
+========= casual =========
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 6.75
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 8.25
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 2.60
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 2.60
+========= casual =========
+spring
+	 + 1 extra sauce
+ORDER COST: 1.95
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+ORDER COST: 5.75
+========= catering =========
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+spring
+	 + 2 extra topping
+spring
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 52.40
+========= casual =========
+egg
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 7.65
+========= casual =========
+egg
+spring
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 9.30
+========= casual =========
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 4.35
+========= casual =========
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 6.85
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 4.60
+========= business =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+egg
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 33.15
+========= business =========
+spring
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+pastry
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+ORDER COST: 34.25
+########## End Day 6: ##########
+Rolls In Inventory:
+	egg	3
+	jelly	5
+	pastry	7
+	sausage	14
+	spring	24
+Rolls Sold Today:
+	egg	8
+	jelly	12
+	pastry	8
+	sausage	11
+	spring	19
+Revenue Today:
+	casual	71.00
+	business	67.40
+	catering	52.40
+	TOTAL	190.80
+#################################
+######### Begin Day 07: #########
+Rolls In Inventory:
+	egg	3
+	jelly	5
+	pastry	7
+	sausage	14
+	spring	24
+========= casual =========
+spring
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+ORDER COST: 5.70
+========= catering =========
+spring
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 56.05
+========= business =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 35.65
+========= catering =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 52.70
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 57.90
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 7.75
+########## End Day 7: ##########
+Rolls In Inventory:
+	egg	2
+	jelly	5
+	pastry	4
+	sausage	11
+	spring	18
+Rolls Sold Today:
+	egg	4
+	jelly	8
+	pastry	14
+	sausage	17
+	spring	16
+Revenue Today:
+	casual	13.45
+	business	35.65
+	catering	166.65
+	TOTAL	215.75
+#################################
+######### Begin Day 08: #########
+Rolls In Inventory:
+	egg	2
+	jelly	5
+	pastry	4
+	sausage	11
+	spring	18
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.45
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra topping
+ORDER COST: 53.35
+========= business =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+!!!!!!!!!!!!!! NOTICE: We have run out of egg rolls.
+egg
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+ORDER COST: 34.15
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 4.90
+========= casual =========
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.60
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 14.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+########## End Day 8: ##########
+Rolls In Inventory:
+	egg	0
+	jelly	2
+	pastry	4
+	sausage	10
+	spring	15
+Rolls Sold Today:
+	egg	4
+	jelly	7
+	pastry	3
+	sausage	12
+	spring	6
+Revenue Today:
+	casual	30.95
+	business	34.15
+	catering	53.35
+	TOTAL	118.45
+#################################
+######### Begin Day 09: #########
+Rolls In Inventory:
+	egg	30
+	jelly	2
+	pastry	4
+	sausage	10
+	spring	15
+========= business =========
+egg
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+jelly
+	 + 1 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 33.20
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 8.80
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+spring
+	 + 1 extra sauce
+ORDER COST: 52.50
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 7.35
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 2.90
+========= catering =========
+catering customer's original order was not filled
+sausage
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 54.90
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.35
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra topping
+ORDER COST: 4.60
+========= casual =========
+egg
+ORDER COST: 2.25
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 2.55
+========= casual =========
+egg
+	 + 1 extra filling
+ORDER COST: 2.50
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 4.65
+========= casual =========
+egg
+	 + 2 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 5.05
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 5.00
+########## End Day 9: ##########
+Rolls In Inventory:
+	egg	22
+	jelly	1
+	pastry	3
+	sausage	6
+	spring	13
+Rolls Sold Today:
+	egg	23
+	jelly	3
+	pastry	5
+	sausage	15
+	spring	12
+Revenue Today:
+	casual	53.00
+	business	33.20
+	catering	107.40
+	TOTAL	193.60
+#################################
+######### Begin Day 10: #########
+Rolls In Inventory:
+	egg	22
+	jelly	1
+	pastry	3
+	sausage	6
+	spring	13
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.55
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+ORDER COST: 8.10
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 5.10
+========= catering =========
+egg
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 48.05
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 49.80
+========= casual =========
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 5.00
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.15
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 10.20
+========= casual =========
+egg
+ORDER COST: 2.25
+########## End Day 10: ##########
+Rolls In Inventory:
+	egg	19
+	jelly	1
+	pastry	2
+	sausage	3
+	spring	9
+Rolls Sold Today:
+	egg	14
+	jelly	1
+	pastry	3
+	sausage	12
+	spring	13
+Revenue Today:
+	casual	40.35
+	business	0.00
+	catering	97.85
+	TOTAL	138.20
+#################################
+######### Begin Day 11: #########
+Rolls In Inventory:
+	egg	19
+	jelly	1
+	pastry	2
+	sausage	3
+	spring	9
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 2.60
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+egg
+	 + 2 extra topping
+ORDER COST: 50.50
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 1 extra filling
+ORDER COST: 2.00
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 47.95
+========= casual =========
+egg
+	 + 2 extra sauce
+ORDER COST: 2.65
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 8.40
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+ORDER COST: 7.05
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 2.20
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of jelly rolls.
+jelly
+ORDER COST: 5.65
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 8.35
+########## End Day 11: ##########
+Rolls In Inventory:
+	egg	13
+	jelly	0
+	pastry	2
+	sausage	1
+	spring	6
+Rolls Sold Today:
+	egg	21
+	jelly	2
+	pastry	4
+	sausage	6
+	spring	12
+Revenue Today:
+	casual	38.90
+	business	0.00
+	catering	98.45
+	TOTAL	137.35
+#################################
+######### Begin Day 12: #########
+Rolls In Inventory:
+	egg	13
+	jelly	30
+	pastry	2
+	sausage	1
+	spring	6
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 6.10
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 9.65
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 9.90
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 3.10
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 5.60
+========= catering =========
+catering customer's original order was not filled
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+jelly
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+jelly
+	 + 3 extra sauce
+jelly
+	 + 2 extra topping
+egg
+egg
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+ORDER COST: 45.20
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 8.70
+========= casual =========
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra topping
+ORDER COST: 9.15
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 2.90
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra topping
+egg
+ORDER COST: 9.00
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of sausage rolls.
+sausage
+	 + 2 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 44.45
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 3.50
+========= casual =========
+egg
+	 + 3 extra sauce
+ORDER COST: 2.85
+########## End Day 12: ##########
+Rolls In Inventory:
+	egg	5
+	jelly	23
+	pastry	1
+	sausage	0
+	spring	6
+Rolls Sold Today:
+	egg	20
+	jelly	20
+	pastry	2
+	sausage	1
+	spring	10
+Revenue Today:
+	casual	70.45
+	business	0.00
+	catering	89.65
+	TOTAL	160.10
+#################################
+######### Begin Day 13: #########
+Rolls In Inventory:
+	egg	5
+	jelly	23
+	pastry	1
+	sausage	30
+	spring	6
+========= casual =========
+sausage
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 11.90
+========= casual =========
+jelly
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 6.85
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+spring
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+egg
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 42.35
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+ORDER COST: 12.45
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 2.40
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 5.20
+########## End Day 13: ##########
+Rolls In Inventory:
+	egg	3
+	jelly	19
+	pastry	1
+	sausage	28
+	spring	5
+Rolls Sold Today:
+	egg	6
+	jelly	8
+	pastry	0
+	sausage	5
+	spring	6
+Revenue Today:
+	casual	38.80
+	business	0.00
+	catering	42.35
+	TOTAL	81.15
+#################################
+######### Begin Day 14: #########
+Rolls In Inventory:
+	egg	3
+	jelly	19
+	pastry	1
+	sausage	28
+	spring	5
+========= casual =========
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 8.00
+========= casual =========
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.60
+========= casual =========
+jelly
+ORDER COST: 3.00
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 10.50
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 5.05
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+sausage
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+!!!!!!!!!!!!!! NOTICE: We have run out of pastry rolls.
+pastry
+	 + 2 extra sauce
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 55.35
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 12.65
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 3.65
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 9.35
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 9.85
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 4.70
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra topping
+ORDER COST: 11.20
+########## End Day 14: ##########
+Rolls In Inventory:
+	egg	2
+	jelly	17
+	pastry	0
+	sausage	22
+	spring	4
+Rolls Sold Today:
+	egg	4
+	jelly	8
+	pastry	1
+	sausage	18
+	spring	4
+Revenue Today:
+	casual	82.55
+	business	0.00
+	catering	55.35
+	TOTAL	137.90
+#################################
+######### Begin Day 15: #########
+Rolls In Inventory:
+	egg	2
+	jelly	17
+	pastry	30
+	sausage	22
+	spring	4
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 4.70
+========= casual =========
+sausage
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.65
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 11.90
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 55.75
+========= casual =========
+pastry
+	 + 2 extra sauce
+ORDER COST: 3.90
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 12.80
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.25
+========= casual =========
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 8.90
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+########## End Day 15: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	16
+	pastry	27
+	sausage	19
+	spring	2
+Rolls Sold Today:
+	egg	3
+	jelly	3
+	pastry	9
+	sausage	10
+	spring	4
+Revenue Today:
+	casual	57.10
+	business	0.00
+	catering	55.75
+	TOTAL	112.85
+#################################
+######### Begin Day 16: #########
+Rolls In Inventory:
+	egg	1
+	jelly	16
+	pastry	27
+	sausage	19
+	spring	2
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.35
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+ORDER COST: 60.85
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+ORDER COST: 11.90
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+ORDER COST: 11.20
+========= casual =========
+sausage
+	 + 1 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 14.50
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 9.25
+========= casual =========
+pastry
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 11.40
+########## End Day 16: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	14
+	pastry	23
+	sausage	18
+	spring	1
+Rolls Sold Today:
+	egg	0
+	jelly	9
+	pastry	11
+	sausage	9
+	spring	2
+Revenue Today:
+	casual	65.60
+	business	0.00
+	catering	60.85
+	TOTAL	126.45
+#################################
+######### Begin Day 17: #########
+Rolls In Inventory:
+	egg	1
+	jelly	14
+	pastry	23
+	sausage	18
+	spring	1
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+sausage
+ORDER COST: 63.00
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 60.55
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 2 extra sauce
+sausage
+	 + 3 extra sauce
+sausage
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of spring rolls.
+spring
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 58.25
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+pastry
+	 + 2 extra topping
+ORDER COST: 3.70
+########## End Day 17: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	10
+	pastry	20
+	sausage	12
+	spring	0
+Rolls Sold Today:
+	egg	1
+	jelly	12
+	pastry	16
+	sausage	15
+	spring	2
+Revenue Today:
+	casual	3.70
+	business	0.00
+	catering	181.80
+	TOTAL	185.50
+#################################
+######### Begin Day 18: #########
+Rolls In Inventory:
+	egg	1
+	jelly	10
+	pastry	20
+	sausage	12
+	spring	30
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.90
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 9.35
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+pastry
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra topping
+ORDER COST: 45.90
+========= casual =========
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 4.10
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 10.40
+========= catering =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+ORDER COST: 54.75
+========= casual =========
+pastry
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 6.10
+========= catering =========
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+sausage
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 54.70
+########## End Day 18: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	9
+	pastry	15
+	sausage	9
+	spring	24
+Rolls Sold Today:
+	egg	1
+	jelly	6
+	pastry	17
+	sausage	12
+	spring	20
+Revenue Today:
+	casual	40.85
+	business	0.00
+	catering	155.35
+	TOTAL	196.20
+#################################
+######### Begin Day 19: #########
+Rolls In Inventory:
+	egg	1
+	jelly	9
+	pastry	15
+	sausage	9
+	spring	24
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 4.35
+========= casual =========
+sausage
+spring
+	 + 3 extra sauce
+spring
+	 + 1 extra filling
+ORDER COST: 8.60
+========= catering =========
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+pastry
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+ORDER COST: 50.15
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 2 extra sauce
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 51.00
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+jelly
+	 + 1 extra topping
+ORDER COST: 58.00
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.55
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of egg rolls.
+egg
+	 + 3 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 7.40
+########## End Day 19: ##########
+Rolls In Inventory:
+	egg	0
+	jelly	5
+	pastry	10
+	sausage	7
+	spring	18
+Rolls Sold Today:
+	egg	3
+	jelly	10
+	pastry	16
+	sausage	7
+	spring	17
+Revenue Today:
+	casual	22.90
+	business	0.00
+	catering	159.15
+	TOTAL	182.05
+#################################
+######### Begin Day 20: #########
+Rolls In Inventory:
+	egg	30
+	jelly	5
+	pastry	10
+	sausage	7
+	spring	18
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+ORDER COST: 7.15
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.55
+========= catering =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+pastry
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+ORDER COST: 55.85
+========= casual =========
+spring
+	 + 1 extra sauce
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.95
+========= catering =========
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 51.30
+========= casual =========
+egg
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 10.70
+========= business =========
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 35.50
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 8.60
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 3.00
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 2.75
+========= business =========
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 35.55
+========= business =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+egg
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+!!!!!!!!!!!!!! NOTICE: We have run out of sausage rolls.
+sausage
+ORDER COST: 33.55
+########## End Day 20: ##########
+Rolls In Inventory:
+	egg	25
+	jelly	3
+	pastry	3
+	sausage	0
+	spring	17
+Rolls Sold Today:
+	egg	17
+	jelly	12
+	pastry	20
+	sausage	13
+	spring	12
+Revenue Today:
+	casual	47.70
+	business	104.60
+	catering	107.15
+	TOTAL	259.45
+#################################
+######### Begin Day 21: #########
+Rolls In Inventory:
+	egg	25
+	jelly	3
+	pastry	3
+	sausage	30
+	spring	17
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.80
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+ORDER COST: 8.80
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 2 extra sauce
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 50.05
+========= casual =========
+sausage
+	 + 1 extra topping
+ORDER COST: 4.35
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra topping
+ORDER COST: 7.70
+========= casual =========
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra topping
+ORDER COST: 10.15
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 9.90
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+sausage
+	 + 3 extra sauce
+sausage
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 54.20
+========= casual =========
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 14.60
+========= casual =========
+egg
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 7.25
+########## End Day 21: ##########
+Rolls In Inventory:
+	egg	21
+	jelly	1
+	pastry	2
+	sausage	23
+	spring	16
+Rolls Sold Today:
+	egg	12
+	jelly	4
+	pastry	7
+	sausage	17
+	spring	7
+Revenue Today:
+	casual	67.55
+	business	0.00
+	catering	104.25
+	TOTAL	171.80
+#################################
+######### Begin Day 22: #########
+Rolls In Inventory:
+	egg	21
+	jelly	1
+	pastry	2
+	sausage	23
+	spring	16
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+egg
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 51.75
+========= casual =========
+spring
+	 + 2 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.05
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 8.40
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 9.70
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 46.25
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 7.45
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 53.05
+########## End Day 22: ##########
+Rolls In Inventory:
+	egg	20
+	jelly	1
+	pastry	2
+	sausage	20
+	spring	12
+Rolls Sold Today:
+	egg	15
+	jelly	2
+	pastry	6
+	sausage	15
+	spring	17
+Revenue Today:
+	casual	32.60
+	business	0.00
+	catering	151.05
+	TOTAL	183.65
+#################################
+######### Begin Day 23: #########
+Rolls In Inventory:
+	egg	20
+	jelly	1
+	pastry	2
+	sausage	20
+	spring	12
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 2 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 6.90
+========= casual =========
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.15
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 4.70
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+egg
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 43.80
+========= casual =========
+egg
+	 + 1 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra topping
+ORDER COST: 11.50
+========= casual =========
+sausage
+	 + 1 extra topping
+ORDER COST: 4.35
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+ORDER COST: 9.30
+========= casual =========
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 3.10
+========= casual =========
+sausage
+	 + 3 extra sauce
+ORDER COST: 4.85
+========= casual =========
+egg
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 12.10
+========= catering =========
+catering customer's original order was not filled
+spring
+	 + 3 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 48.20
+========= casual =========
+sausage
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+ORDER COST: 7.20
+########## End Day 23: ##########
+Rolls In Inventory:
+	egg	13
+	jelly	1
+	pastry	2
+	sausage	14
+	spring	7
+Rolls Sold Today:
+	egg	19
+	jelly	2
+	pastry	3
+	sausage	14
+	spring	11
+Revenue Today:
+	casual	71.15
+	business	0.00
+	catering	92.00
+	TOTAL	163.15
+#################################
+######### Begin Day 24: #########
+Rolls In Inventory:
+	egg	13
+	jelly	1
+	pastry	2
+	sausage	14
+	spring	7
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 4.85
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.65
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+egg
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra topping
+ORDER COST: 49.65
+========= casual =========
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 2.10
+========= casual =========
+sausage
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.25
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+ORDER COST: 10.00
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+!!!!!!!!!!!!!! NOTICE: We have run out of jelly rolls.
+jelly
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 54.70
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 5.55
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 5.10
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 12.20
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 4.80
+========= casual =========
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 11.80
+========= casual =========
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 9.95
+########## End Day 24: ##########
+Rolls In Inventory:
+	egg	11
+	jelly	0
+	pastry	1
+	sausage	9
+	spring	6
+Rolls Sold Today:
+	egg	14
+	jelly	2
+	pastry	4
+	sausage	19
+	spring	11
+Revenue Today:
+	casual	76.25
+	business	0.00
+	catering	104.35
+	TOTAL	180.60
+#################################
+######### Begin Day 25: #########
+Rolls In Inventory:
+	egg	11
+	jelly	30
+	pastry	1
+	sausage	9
+	spring	6
+========= casual =========
+jelly
+	 + 1 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 6.95
+========= casual =========
+egg
+	 + 1 extra sauce
+jelly
+	 + 3 extra sauce
+ORDER COST: 6.05
+========= catering =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+jelly
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 54.95
+========= catering =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+jelly
+spring
+	 + 2 extra topping
+sausage
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 52.10
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra topping
+ORDER COST: 9.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+########## End Day 25: ##########
+Rolls In Inventory:
+	egg	9
+	jelly	21
+	pastry	1
+	sausage	7
+	spring	5
+Rolls Sold Today:
+	egg	8
+	jelly	14
+	pastry	0
+	sausage	10
+	spring	5
+Revenue Today:
+	casual	22.00
+	business	0.00
+	catering	107.05
+	TOTAL	129.05
+#################################
+######### Begin Day 26: #########
+Rolls In Inventory:
+	egg	9
+	jelly	21
+	pastry	1
+	sausage	7
+	spring	5
+========= casual =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 14.85
+========= casual =========
+jelly
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+ORDER COST: 10.10
+========= casual =========
+egg
+	 + 2 extra sauce
+ORDER COST: 2.65
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 4.65
+========= casual =========
+jelly
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 7.80
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 1 extra filling
+jelly
+	 + 1 extra filling
+jelly
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 8.65
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+ORDER COST: 6.05
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+egg
+	 + 2 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+!!!!!!!!!!!!!! NOTICE: We have run out of pastry rolls.
+pastry
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+ORDER COST: 56.90
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 6.20
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 9.30
+========= casual =========
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 7.15
+========= catering =========
+catering customer's original order was not filled
+egg
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 2 extra sauce
+egg
+	 + 1 extra sauce
+jelly
+jelly
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+egg
+	 + 3 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+jelly
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+ORDER COST: 45.60
+########## End Day 26: ##########
+Rolls In Inventory:
+	egg	3
+	jelly	13
+	pastry	0
+	sausage	4
+	spring	2
+Rolls Sold Today:
+	egg	13
+	jelly	23
+	pastry	1
+	sausage	10
+	spring	6
+Revenue Today:
+	casual	77.40
+	business	0.00
+	catering	102.50
+	TOTAL	179.90
+#################################
+######### Begin Day 27: #########
+Rolls In Inventory:
+	egg	3
+	jelly	13
+	pastry	30
+	sausage	4
+	spring	2
+========= business =========
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+pastry
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 35.40
+========= casual =========
+pastry
+	 + 2 extra sauce
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 8.00
+========= business =========
+sausage
+	 + 1 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+spring
+	 + 3 extra sauce
+pastry
+	 + 1 extra topping
+egg
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of spring rolls.
+spring
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+ORDER COST: 34.15
+========= casual =========
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 12.50
+========= casual =========
+pastry
+	 + 1 extra sauce
+pastry
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 11.50
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 12.95
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra topping
+egg
+	 + 2 extra sauce
+	 + 2 extra topping
+egg
+	 + 1 extra sauce
+ORDER COST: 57.40
+========= casual =========
+pastry
+	 + 1 extra topping
+ORDER COST: 3.60
+========= casual =========
+pastry
+ORDER COST: 3.50
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+pastry
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+jelly
+	 + 1 extra filling
+ORDER COST: 10.55
+========= casual =========
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra sauce
+sausage
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 12.25
+========= casual =========
+jelly
+	 + 3 extra sauce
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+ORDER COST: 7.95
+########## End Day 27: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	9
+	pastry	15
+	sausage	2
+	spring	0
+Rolls Sold Today:
+	egg	6
+	jelly	11
+	pastry	26
+	sausage	9
+	spring	4
+Revenue Today:
+	casual	82.80
+	business	69.55
+	catering	57.40
+	TOTAL	209.75
+#################################
+######### Begin Day 28: #########
+Rolls In Inventory:
+	egg	1
+	jelly	9
+	pastry	15
+	sausage	2
+	spring	30
+========= casual =========
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+sausage
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 11.20
+========= casual =========
+pastry
+	 + 1 extra sauce
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+ORDER COST: 7.65
+========= catering =========
+pastry
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+ORDER COST: 49.65
+========= casual =========
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+ORDER COST: 8.40
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+jelly
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 10.40
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+jelly
+	 + 1 extra sauce
+spring
+	 + 2 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+ORDER COST: 7.95
+========= catering =========
+catering customer's original order was not filled
+sausage
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+sausage
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 50.50
+========= casual =========
+spring
+	 + 2 extra sauce
+ORDER COST: 2.15
+========= casual =========
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 8.65
+========= casual =========
+pastry
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 6.15
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 2.40
+========= casual =========
+pastry
+	 + 2 extra sauce
+jelly
+	 + 1 extra filling
+ORDER COST: 7.15
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.15
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+ORDER COST: 2.20
+########## End Day 28: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	6
+	pastry	10
+	sausage	1
+	spring	23
+Rolls Sold Today:
+	egg	1
+	jelly	9
+	pastry	17
+	sausage	3
+	spring	26
+Revenue Today:
+	casual	76.45
+	business	0.00
+	catering	100.15
+	TOTAL	176.60
+#################################
+######### Begin Day 29: #########
+Rolls In Inventory:
+	egg	1
+	jelly	6
+	pastry	10
+	sausage	1
+	spring	23
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.35
+========= casual =========
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+ORDER COST: 6.50
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+egg
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra filling
+sausage
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra sauce
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra filling
+	 + 2 extra topping
+ORDER COST: 48.80
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= business =========
+business customer's original order was not filled
+ORDER COST: 0.00
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 2 extra sauce
+	 + 1 extra topping
+pastry
+	 + 2 extra sauce
+	 + 2 extra topping
+!!!!!!!!!!!!!! NOTICE: We have run out of sausage rolls.
+sausage
+	 + 1 extra sauce
+pastry
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+egg
+	 + 3 extra sauce
+	 + 1 extra topping
+pastry
+	 + 3 extra sauce
+spring
+	 + 1 extra sauce
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+jelly
+	 + 3 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 2 extra topping
+ORDER COST: 47.15
+========= casual =========
+jelly
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+ORDER COST: 9.60
+========= catering =========
+catering customer's original order was not filled
+pastry
+	 + 1 extra sauce
+pastry
+	 + 1 extra filling
+	 + 2 extra topping
+spring
+	 + 3 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+spring
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+pastry
+	 + 1 extra sauce
+	 + 1 extra topping
+egg
+	 + 1 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 2 extra topping
+pastry
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 2 extra topping
+jelly
+	 + 2 extra topping
+spring
+	 + 2 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+jelly
+	 + 2 extra sauce
+	 + 1 extra topping
+spring
+	 + 3 extra sauce
+	 + 1 extra filling
+	 + 1 extra topping
+ORDER COST: 46.45
+========= casual =========
+spring
+	 + 1 extra sauce
+	 + 2 extra topping
+ORDER COST: 2.15
+########## End Day 29: ##########
+Rolls In Inventory:
+	egg	1
+	jelly	5
+	pastry	7
+	sausage	0
+	spring	20
+Rolls Sold Today:
+	egg	3
+	jelly	5
+	pastry	17
+	sausage	2
+	spring	25
+Revenue Today:
+	casual	20.60
+	business	0.00
+	catering	142.40
+	TOTAL	163.00
+#################################
+######### Final Report ##########
+Turnaways:
+	casual	0
+	business	44
+	catering	35
+	TOTAL	79
+Rolls Sold Overall:
+	egg	292
+	jelly	288
+	pastry	300
+	sausage	338
+	spring	343
+	TOTAL	1561
+
+Process finished with exit code 0

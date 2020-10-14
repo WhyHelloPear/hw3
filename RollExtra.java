@@ -16,4 +16,8 @@ public abstract class RollExtra extends Roll {
 		return this.decoratedRoll.getType();
 	}
 
+  public Roll getBaseRoll(){
+    return this.decoratedRoll;
+  }
+
 }

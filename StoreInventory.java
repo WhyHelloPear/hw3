@@ -12,6 +12,9 @@ public class StoreInventory{
 	private int totalRevenue; //count of total revenue earned
 	private List<String> customerTypes;
 	private List<Integer> customerTurnaways;
+	private List<Float> dailyCustomerRevenue;
+	private List<Integer> dailyRollSales;
+	private List<Integer> rollSales;
 
 	private StoreInventory(){
 		rollFactory = new RollFactory();
@@ -27,9 +30,19 @@ public class StoreInventory{
 		customerTypes.add("business");
 		customerTypes.add("catering");
 		customerTurnaways = new ArrayList<Integer>();
-		customerTurnaways.add(0);
-		customerTurnaways.add(0);
-		customerTurnaways.add(0);
+		dailyCustomerRevenue = new ArrayList<Float>();
+		dailyRollSales = new ArrayList<Integer>();
+		rollSales = new ArrayList<Integer>();
+
+		for(String i: customerTypes){
+			customerTurnaways.add(0);
+			dailyCustomerRevenue.add(0F);
+		}
+		for(String i: rollTypes){
+			rollSales.add(0);
+			dailyRollSales.add(0);
+		}
+
 	}
 
 	public static StoreInventory getStoreInventory(){
@@ -76,20 +89,61 @@ public class StoreInventory{
 		return count;
 	}
 
+	public void logSale(Roll roll, String customerType){
+		String rollType = roll.getType();
+		Float price = roll.getPrice();
+		int customerIndex = customerTypes.indexOf(customerType);
+		int rollIndex = rollTypes.indexOf(rollType);
+
+		dailyCustomerRevenue.set(customerIndex, dailyCustomerRevenue.get(customerIndex) + price);
+		dailyRollSales.set(rollIndex, dailyRollSales.get(rollIndex) + 1);
+		rollSales.set(rollIndex, rollSales.get(rollIndex) + 1);
+
+	}
+
 	//prints out the current inventory of all rolls
-	public void generateReport(){
-		System.out.println("Egg Rolls: "+getTypeCount("egg"));
-		System.out.println("Jelly Rolls: "+getTypeCount("jelly"));
-		System.out.println("Pastry Rolls: "+getTypeCount("pastry"));
-		System.out.println("Sausage Rolls: "+getTypeCount("sausage"));
-		System.out.println("Spring Rolls: "+getTypeCount("spring"));
+	public void generateReport(String time){
+		System.out.println("Rolls In Inventory:");
+		for (String rollType: rollTypes) {
+			System.out.println("\t" + rollType + "\t" + getTypeCount(rollType));
+		}
+
+		if ( time.equals("close") ) {
+			System.out.println("Rolls Sold Today:");
+			for (String rollType: rollTypes) {
+				int typeIndex = rollTypes.indexOf(rollType);
+				System.out.println("\t" + rollType + "\t" + dailyRollSales.get(typeIndex));
+			}
+
+			System.out.println("Revenue Today:");
+			Float totalRevenue = 0F;
+			for (String customerType: customerTypes) {
+				int customerIndex = customerTypes.indexOf(customerType);
+				Float revenue = dailyCustomerRevenue.get(customerIndex);
+				totalRevenue += revenue;
+				System.out.println("\t" + customerType + "\t" + String.format("%.2f", revenue));
+			}
+			System.out.println("\tTOTAL\t" + String.format("%.2f", totalRevenue));
+
+
+
+		}
+	}
+
+	public void newDay() {
+		for (int i = 0; i < dailyCustomerRevenue.size(); i++) {
+			dailyCustomerRevenue.set(i, 0F);
+		}
+		for (int i = 0; i < dailyRollSales.size(); i++) {
+			dailyRollSales.set(i, 0);
+		}
 	}
 
 	//given a desired amount, function returns a list of
 	//roll types that have stock >= desired amount
 	public List<String> getAvailableTypes(int amount){
 		List<String> availableTypes = new ArrayList<String>();
-		
+
 		if(getTypeCount("egg") >= amount){
 			availableTypes.add("egg");
 		}
@@ -149,12 +203,23 @@ public class StoreInventory{
 		customerTurnaways.set(index, count);
 	}
 
-	public void turnawayReport(){
-		int sum = 0;
+	public void finalReport(){
+		System.out.println("######### Final Report ##########");
+		System.out.println("Turnaways:");
+		int sumTurnaways = 0;
 		for(int i = 0; i < 3; i++){
-			System.out.println(customerTypes.get(i)+" turnaways: "+customerTurnaways.get(i));
-			sum += customerTurnaways.get(i);
+			System.out.println("\t" + customerTypes.get(i) + "\t" + customerTurnaways.get(i));
+			sumTurnaways += customerTurnaways.get(i);
 		}
-		System.out.println("Total turnaways: "+sum);
+		System.out.println("\tTOTAL\t" + sumTurnaways);
+
+		System.out.println("Rolls Sold Overall:");
+		int sumRolls = 0;
+		for(String rollType: rollTypes) {
+			int index = rollTypes.indexOf(rollType);
+			System.out.println("\t" + rollType + "\t" + rollSales.get(index));
+			sumRolls += rollSales.get(index);
+		}
+		System.out.println("\tTOTAL\t" + sumRolls);
 	}
 }

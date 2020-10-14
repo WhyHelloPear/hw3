@@ -13,4 +13,8 @@ abstract class Roll{
 	public void printType(){
 		System.out.println(getType());
 	}
+
+	public Roll getBaseRoll(){
+		return this;
+	}
 }

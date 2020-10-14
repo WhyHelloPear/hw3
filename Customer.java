@@ -44,10 +44,18 @@ public abstract class Customer{
 			System.out.println(this.type+" customer's original order was not filled");
 		}
 		for(int i = 0; i < this.order.size(); i++){
-			Roll roll = this.order.get(i);
-			storeInventory.removeRoll(roll);
-			roll = addExtras(roll);
-			roll.printType();
+			Roll new_roll = addExtras(this.order.get(i));
+			this.order.set(i, new_roll);
 		}
+		Float orderCost = 0F;
+		for(int i = 0; i < this.order.size(); i++){
+			Roll roll = this.order.get(i);
+			storeInventory.removeRoll(roll.getBaseRoll());
+			roll.printType();
+			storeInventory.logSale(roll, this.type);
+			orderCost += roll.getPrice();
+		}
+		System.out.println("ORDER COST: " + String.format("%.2f", orderCost));
+
 	}
 }

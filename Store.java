@@ -48,12 +48,12 @@ public class Store{
 		storeInventory.generateRolls("all"); //fill inventory with 30 rolls of each type
 
 		for(int i = 0; i < days; i++){
-			System.out.println("Day "+i+":");
-			storeInventory.generateReport(); //print inventory report
-			
+			System.out.println("######### Begin Day " + String.format("%02d", i) + ": #########");
+			storeInventory.generateReport("Open"); //print inventory report
+
 			List<Customer> customers = generateCustomers(); //get list of customers for the day
 			int numCustomers = customers.size();
-			
+
 			for(int j = 0; j < numCustomers; j++){
 				Customer customer = customers.get(j);
 				customer.buy(storeInventory);
@@ -62,8 +62,13 @@ public class Store{
 					break;
 				}
 			}
+			System.out.println("########## End Day "+i+": ##########");
+			storeInventory.generateReport("close");
+			System.out.println("#################################");
+
 			storeInventory.restock();
+			storeInventory.newDay();
 		}
-		storeInventory.turnawayReport();
+		storeInventory.finalReport();
 	}
 }

@@ -8,6 +8,6 @@ class ExtraFilling extends RollExtra {
 
   public void printType(){
     this.decoratedRoll.printType();
-    System.out.println("\t + " +Integer.toString(num) + " extra fillings");
+    System.out.println("\t + " +Integer.toString(num) + " extra filling");
   }
 }

@@ -11,6 +11,8 @@ Ryan LaRocque
 ## Instructions To Run Code:
 `java Store`
 
+Note: the normal output and test output are stored in different files: `output.txt` and `test_output.txt`. 
+
 ## Language & Environment:
 Language: Java
 
